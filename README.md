@@ -38,6 +38,6 @@ bash camphish.sh
 ```
 ### Video Demo
 [![How to control android camera
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">AK   YouTube Channel</a>
+#### For More Video subcribe <a href="https://www.youtube.com/c/AKTECHUNT3r">AK TEC HUNT3r YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
