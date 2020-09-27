@@ -1,6 +1,6 @@
 #!/bin/bash
 # CamPhish v1.0
-# Powered by TechChip
+# Powered by AK TEC HUNT3r
 # Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
 
 trap 'printf "\n";stop' 2
@@ -16,7 +16,7 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n\n"
 
-printf " \e[1;77m www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf " \e[1;77m AK TEC HINT3r |  \e[0m \n"
 
 printf "\n"
 
